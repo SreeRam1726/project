@@ -232,6 +232,6 @@ project.html
 </html>
 ```
 # OUTPUT:
-![alt text](<../Screenshot 2025-12-24 110106.png>)
+![alt text](proj/ouput.png)
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
